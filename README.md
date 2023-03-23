@@ -1,4 +1,4 @@
-# owensboro-blue-bridge
+# owensboro-river-front
 ## Owensboro "Blue" Bridge
 This bridge spans the Ohio River and connects Owensboro, KY to southern Indiana and is a significant feature along the shorline of Owensboro. 
 
