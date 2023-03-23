@@ -5,5 +5,5 @@ This bridge spans the Ohio River and connects Owensboro, KY to southern Indiana 
 ![Owensboro Riverfront Point Cloud](map.jpg)     
 This map shows downtown Owensboro and the Blue Bridge along the shorline of the Ohio River and displays three-dimensional LIDAR data collected by KyFromAbove.
 
-![Screenshot of animation](animation.jpg)     
-*[Name of the link for video](https://youtu.be/5aOF9SrQICA)*
+![Screenshot of animation](animation.JPG)     
+*[Blue Bridge LIDAR Animation](https://youtu.be/5aOF9SrQICA)*
